@@ -1,6 +1,2 @@
-aiogram==3.20.0
-python-dotenv
 python-telegram-bot
-requests
-pytz
-flask
+python-dotenv
